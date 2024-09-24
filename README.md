@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bidhan Adhikari
 - 👀 I’m interested in Web developer
-- 🌱 I’m currently learning Javascript 
+- 🌱 I have mastered Javascript 
 - 💞️ I’m looking to collaborate on Front end developer
 - 📫 How to reach me adhikari12bidhan@gmail.com
 
