@@ -4,7 +4,9 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bidhan-adhikari-786b13276/) 
-[![LinkedIn](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=codepen&logoColor=white)](adhikari-bidhan.netlify.app) 
+
+## 🌐 Portfolio:
+[![LinkedIn](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=codepen&logoColor=white)](https://adhikari-bidhan.netlify.app/) 
 
 
 # 💻 Tech Stack:
